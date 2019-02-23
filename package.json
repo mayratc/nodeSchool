@@ -1,0 +1,19 @@
+{
+  "name": "nodeschool",
+  "version": "1.0.0",
+  "description": "Estos workshoppers se enfocan en habilidades esenciales para poder trabajar con Node.js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayratc/nodeSchool.git"
+  },
+  "author": "mayratc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mayratc/nodeSchool/issues"
+  },
+  "homepage": "https://github.com/mayratc/nodeSchool#readme"
+}
